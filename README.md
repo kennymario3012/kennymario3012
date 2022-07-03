@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kennymario3012&label=Profile%20views&color=0e75b6&style=flat" alt="kennymario3012" /> </p>
 
-<p align="right"><img  alt="Coding" width="50px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img></p>
+<img  alt="Coding" align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img> 
 
 - 🌱 I’m currently learning **CI & CD**
 
@@ -32,6 +32,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kennymario3012&show_icons=true&locale=en&layout=compact" alt="kennymario3012" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kennymario3012&show_icons=true&locale=en" alt="kennymario3012" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kennymario3012&show_icons=true&locale=en" alt="kennymario3012"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kennymario3012&" alt="kennymario3012" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kennymario3012&" alt="kennymario3012"/></p>
