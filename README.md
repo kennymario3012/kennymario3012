@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kennymario3012&label=Profile%20views&color=0e75b6&style=flat" alt="kennymario3012" /> </p>
 
-<img  alt="Coding" align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img> 
+<img  alt="Coding" align="right" width="310" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img> 
 
 - 🌱 I’m currently learning **CI & CD**
 
@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **kennymarioantonio@gmail.com**
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=kennymario3012&theme=nord&&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
@@ -23,7 +25,11 @@
 <a href="https://discord.gg/554699565362839553" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="554699565362839553" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kennymario3012" alt="kennymario3012"  width="400" /></a> </p>
+
+
+
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
