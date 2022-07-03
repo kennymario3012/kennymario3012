@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kennymario3012&label=Profile%20views&color=0e75b6&style=flat" alt="kennymario3012" /> </p>
 
-<img  alt="Coding" align="right" width="310" src="https://raw.githubusercontent.com/kennymario3012/kennymario3012/main/programmer%20(1).gif"></img> 
+<img  alt="Coding" align="right" width="310" src="https://raw.githubusercontent.com/kennymario3012/kennymario3012/main/programmer%20(2).gif"></img> 
 
 - 🌱 I’m currently learning **CI & CD**
 
