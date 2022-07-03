@@ -1,11 +1,12 @@
-[![MasterHead](https://raw.githubusercontent.com/kennymario3012/kennymario3012/main/2000_600px%20(1).gif)]
+![MasterHead](https://raw.githubusercontent.com/kennymario3012/kennymario3012/main/2000_600px%20(1).gif)
 
 <h1 align="center">Hi 👋, I'm Kenny Mário</h1>
 <h3 align="center">A passionate Devops from Angola</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kennymario3012&label=Profile%20views&color=0e75b6&style=flat" alt="kennymario3012" /> </p>
 
-<img align="right" alt="Coding" width="200px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img>
+<p align="right"><img  alt="Coding" width="50px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img></p>
+
 - 🌱 I’m currently learning **CI & CD**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kennyreliquia](https://github.com/Kennyreliquia)
