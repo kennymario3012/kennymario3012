@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **CI & CD**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Kennyreliquia](https://github.com/Kennyreliquia)
+- 👨‍💻 All of my projects are available at [https://github.com/kennymario3012](https://github.com/kennymario3012)
 
 - 💬 Ask me about **cloud, kubernets, docker and etc**
 
-- 📫 How to reach me **kennymarioantonio@gmail.com**
+- 📫 How to reach me **mario.domingos@ellonet.ao**
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kennymario3012&theme=nord&&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
