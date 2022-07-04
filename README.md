@@ -9,7 +9,7 @@
 
 <img  alt="Coding" align="right" width="310" src="https://raw.githubusercontent.com/kennymario3012/kennymario3012/main/programmer%20(2).gif"></img> 
 
-- 🌱 I’m currently learning **CI & CD**
+- 🌱 I’m currently learning **Infrastructure as code**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kennymario3012](https://github.com/kennymario3012)
 
